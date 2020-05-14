@@ -16,7 +16,7 @@ A fast fourier transform based implementation which facilitates the convolution 
 
 ![](https://github.com/yeliuyChuy/DSPTools/blob/master/pics/Convolver_GUI.png)
 
-Tips: In consideration of the purpose of using, some open source Impulse Response library are suggested here:
+Tips: In consideration of the purpose of using, some open source Impulse Response library are used in demo and suggested here:
 
 | Purpose      | Corpus    | 
 | ---------- | :-----------:  | 
