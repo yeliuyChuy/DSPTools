@@ -14,9 +14,10 @@ A fast fourier transform based implementation which facilitates the convolution 
 
 2. Select your files and output folder in GUI, then simply click Process.
 
-Tips:
+![](https://github.com/yeliuyChuy/DSPTools/blob/master/pics/Convolver_GUI.png)
 
-In consideration of the purpose of using, some open source Impulse Response library are suggested here:
+Tips: In consideration of the purpose of using, some open source Impulse Response library are suggested here:
+
 | Purpose      | Corpus    | 
 | ---------- | :-----------:  | 
 | Space Simulation    | [Isophonics](http://isophonics.net/content/room-impulse-response-data-set)| 
