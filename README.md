@@ -1,10 +1,18 @@
 # DSPTools
- 
+
  A quick implementation and deployment of some DSP algortihms
  
+ May2020 update: Previously this repo was created for storing source code of audio processing. Now I'm learning QT for deploying those algorithms with simple GUI. 
+  
  ## Table of Contents
 
 - [Convolver](#Convolver)
+- Tone Generator(TODO)
+- Sound Propagation/Room Reflection(TODO)
+- Wav Player(TODO)
+- Filtering(TODO)
+- Dynamic Range Control(TODO)
+- Binaural Rendering(TODO)
 
 ## Convolver
 
